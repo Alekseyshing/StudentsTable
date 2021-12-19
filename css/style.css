@@ -1,0 +1,28 @@
+h2 {
+  text-align: center;
+}
+
+th {
+  cursor: pointer;
+}
+
+/* .form__filter__by-name,
+.form__filter__by-date,
+.form__filter__by-year,
+.form__filter__by-faculty {
+  display: none;
+}
+ 
+.form__filter--is-active {
+  display: block;
+} */
+
+.valid {
+  border: 3px solid green;
+}
+
+.invalid {
+  border: 3px solid red;
+}
+
+#error { color: red }
